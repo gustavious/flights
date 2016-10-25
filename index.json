@@ -1,351 +1,401 @@
 [{
   "key": 1,
-  "label": "Miami - Bogotá",
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "6:25 AM",
-  "arrive": "9:10 PM",
-  "state": "canceled"
-}, {
-  "key": 2,
-  "label": "Sao Paulo - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "11:54 AM",
-  "arrive": "5:21 PM",
-  "state": "on transit"
-}, {
-  "key": 3,
-  "label": "Bogotá - Madrid",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "8:00 AM",
-  "arrive": "9:26 PM",
-  "state": "on time"
-}, {
-  "key": 4,
-  "label": "Miami - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "6:38 AM",
-  "arrive": "10:20 PM",
-  "state": "arrived"
-}, {
-  "key": 5,
-  "label": "Medellin - Cali",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "11:16 AM",
-  "arrive": "6:35 PM",
-  "state": "delayed"
-}, {
-  "key": 6,
-  "label": "Medellin - Cartagena",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "9:06 AM",
-  "arrive": "10:13 PM",
-  "state": "canceled"
-}, {
-  "key": 7,
-  "label": "Medellin - Cali",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:51 AM",
-  "arrive": "3:50 PM",
-  "state": "delayed"
-}, {
-  "key": 8,
-  "label": "Bogotá - Madrid",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "3:24 AM",
-  "arrive": "11:38 PM",
-  "state": "on transit"
-}, {
-  "key": 9,
-  "label": "Medellin - Cali",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:57 AM",
-  "arrive": "4:25 PM",
-  "state": "canceled"
-}, {
-  "key": 10,
-  "label": "Medellin - Cali",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "4:50 AM",
+  "departure": "1:04 PM",
   "arrive": "11:43 PM",
   "state": "on time"
 }, {
-  "key": 11,
-  "label": "Miami - Bogotá",
+  "key": 2,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "5:29 AM",
-  "arrive": "4:57 PM",
+  "departure": "2:32 PM",
+  "arrive": "6:14 PM",
+  "state": "on transit"
+}, {
+  "key": 3,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:54 AM",
+  "arrive": "8:42 PM",
+  "state": "delayed"
+}, {
+  "key": 4,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "4:03 AM",
+  "arrive": "6:31 PM",
   "state": "arrived"
 }, {
-  "key": 12,
-  "label": "Sao Paulo - Bogotá",
+  "key": 5,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:23 AM",
-  "arrive": "7:42 PM",
+  "departure": "1:10 PM",
+  "arrive": "3:46 PM",
+  "state": "on time"
+}, {
+  "key": 6,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:49 PM",
+  "arrive": "11:27 PM",
+  "state": "delayed"
+}, {
+  "key": 7,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:26 AM",
+  "arrive": "3:39 PM",
+  "state": "canceled"
+}, {
+  "key": 8,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:45 AM",
+  "arrive": "10:06 PM",
+  "state": "on time"
+}, {
+  "key": 9,
+  "label": "Bogota - Paris",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:21 AM",
+  "arrive": "6:00 PM",
+  "state": "canceled"
+}, {
+  "key": 10,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:16 PM",
+  "arrive": "6:35 PM",
+  "state": "on transit"
+}, {
+  "key": 11,
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:21 AM",
+  "arrive": "11:53 PM",
+  "state": "on transit"
+}, {
+  "key": 12,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:18 AM",
+  "arrive": "9:05 PM",
   "state": "canceled"
 }, {
   "key": 13,
-  "label": "Bogotá - New York",
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:52 AM",
-  "arrive": "3:50 PM",
-  "state": "on time"
-}, {
-  "key": 14,
-  "label": "Sao Paulo - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "4:04 AM",
-  "arrive": "10:53 PM",
+  "departure": "11:55 AM",
+  "arrive": "3:54 PM",
   "state": "arrived"
 }, {
-  "key": 15,
-  "label": "Bogotá - Paris",
+  "key": 14,
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:19 AM",
-  "arrive": "8:02 PM",
+  "departure": "11:51 AM",
+  "arrive": "9:43 PM",
+  "state": "on time"
+}, {
+  "key": 15,
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "11:08 AM",
+  "arrive": "5:08 PM",
   "state": "arrived"
 }, {
   "key": 16,
-  "label": "Bogotá - Paris",
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "10:45 AM",
-  "arrive": "3:41 PM",
-  "state": "canceled"
+  "departure": "9:51 AM",
+  "arrive": "6:29 PM",
+  "state": "on time"
 }, {
   "key": 17,
-  "label": "Medellin - Cartagena",
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:22 AM",
-  "arrive": "3:01 PM",
-  "state": "canceled"
+  "departure": "11:50 AM",
+  "arrive": "4:48 PM",
+  "state": "delayed"
 }, {
   "key": 18,
-  "label": "Bogotá - Madrid",
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "10:25 AM",
-  "arrive": "4:37 PM",
+  "departure": "1:41 PM",
+  "arrive": "7:42 PM",
   "state": "canceled"
 }, {
   "key": 19,
-  "label": "Bogotá - New York",
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "5:54 AM",
-  "arrive": "11:12 PM",
-  "state": "canceled"
+  "departure": "12:46 AM",
+  "arrive": "11:37 PM",
+  "state": "arrived"
 }, {
   "key": 20,
-  "label": "Miami - Bogotá",
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:44 PM",
-  "arrive": "9:41 PM",
-  "state": "delayed"
+  "departure": "10:33 AM",
+  "arrive": "11:51 PM",
+  "state": "on time"
 }, {
   "key": 21,
-  "label": "Bogotá - Paris",
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:59 AM",
-  "arrive": "11:51 PM",
-  "state": "delayed"
+  "departure": "4:24 AM",
+  "arrive": "4:47 PM",
+  "state": "arrived"
 }, {
   "key": 22,
-  "label": "Sao Paulo - Bogotá",
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:22 AM",
-  "arrive": "11:14 PM",
-  "state": "canceled"
+  "departure": "6:02 AM",
+  "arrive": "5:58 PM",
+  "state": "delayed"
 }, {
   "key": 23,
   "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "4:35 AM",
-  "arrive": "6:26 PM",
-  "state": "delayed"
+  "departure": "11:15 AM",
+  "arrive": "11:33 PM",
+  "state": "canceled"
 }, {
   "key": 24,
-  "label": "Medellin - Cartagena",
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "6:30 AM",
-  "arrive": "7:09 PM",
-  "state": "canceled"
+  "departure": "10:34 AM",
+  "arrive": "6:11 PM",
+  "state": "arrived"
 }, {
   "key": 25,
   "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:27 AM",
-  "arrive": "11:36 PM",
-  "state": "delayed"
-}, {
-  "key": 26,
-  "label": "Sao Paulo - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "3:30 AM",
-  "arrive": "8:35 PM",
-  "state": "arrived"
-}, {
-  "key": 27,
-  "label": "Bogotá - New York",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "1:23 AM",
-  "arrive": "11:52 PM",
-  "state": "arrived"
-}, {
-  "key": 28,
-  "label": "Sao Paulo - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "4:28 AM",
-  "arrive": "10:03 PM",
+  "departure": "4:06 AM",
+  "arrive": "4:48 PM",
   "state": "canceled"
 }, {
-  "key": 29,
-  "label": "Bogotá - New York",
+  "key": 26,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:30 PM",
-  "arrive": "10:19 PM",
+  "departure": "8:29 AM",
+  "arrive": "4:33 PM",
+  "state": "delayed"
+}, {
+  "key": 27,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:36 AM",
+  "arrive": "10:55 PM",
+  "state": "delayed"
+}, {
+  "key": 28,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:29 PM",
+  "arrive": "9:06 PM",
+  "state": "on time"
+}, {
+  "key": 29,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:24 AM",
+  "arrive": "10:23 PM",
   "state": "delayed"
 }, {
   "key": 30,
-  "label": "Bogotá - Madrid",
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "3:19 AM",
-  "arrive": "9:50 PM",
-  "state": "delayed"
+  "departure": "2:09 AM",
+  "arrive": "5:55 PM",
+  "state": "arrived"
 }, {
   "key": 31,
-  "label": "Sao Paulo - Bogotá",
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:14 PM",
-  "arrive": "3:06 PM",
+  "departure": "1:00 PM",
+  "arrive": "5:33 PM",
   "state": "canceled"
 }, {
   "key": 32,
-  "label": "Medellin - Cartagena",
+  "label": "Bogota - Paris",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:18 AM",
-  "arrive": "4:45 PM",
-  "state": "on time"
-}, {
-  "key": 33,
-  "label": "Miami - Bogotá",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "6:56 AM",
-  "arrive": "11:52 PM",
+  "departure": "7:52 AM",
+  "arrive": "5:42 PM",
   "state": "arrived"
 }, {
-  "key": 34,
-  "label": "Miami - Bogotá",
+  "key": 33,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:52 AM",
-  "arrive": "11:02 PM",
+  "departure": "3:19 AM",
+  "arrive": "4:22 PM",
+  "state": "canceled"
+}, {
+  "key": 34,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:10 PM",
+  "arrive": "10:18 PM",
   "state": "arrived"
 }, {
   "key": 35,
-  "label": "Bogotá - Paris",
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:39 AM",
-  "arrive": "7:49 PM",
-  "state": "on time"
-}, {
-  "key": 36,
-  "label": "Bogotá - Paris",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "12:10 AM",
-  "arrive": "10:35 PM",
+  "departure": "9:42 AM",
+  "arrive": "6:28 PM",
   "state": "canceled"
 }, {
-  "key": 37,
-  "label": "Miami - Bogotá",
+  "key": 36,
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "8:45 AM",
-  "arrive": "8:52 PM",
+  "departure": "2:44 AM",
+  "arrive": "7:09 PM",
+  "state": "delayed"
+}, {
+  "key": 37,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:43 AM",
+  "arrive": "5:23 PM",
   "state": "on time"
 }, {
   "key": 38,
-  "label": "Bogotá - Paris",
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "2:56 AM",
-  "arrive": "8:18 PM",
+  "departure": "12:48 AM",
+  "arrive": "10:15 PM",
   "state": "on time"
 }, {
   "key": 39,
-  "label": "Bogotá - New York",
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "2:26 AM",
-  "arrive": "3:13 PM",
-  "state": "on transit"
+  "departure": "9:58 AM",
+  "arrive": "7:43 PM",
+  "state": "on time"
 }, {
   "key": 40,
-  "label": "Miami - Bogotá",
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:22 AM",
-  "arrive": "4:01 PM",
-  "state": "on time"
+  "departure": "1:34 PM",
+  "arrive": "9:58 PM",
+  "state": "on transit"
 }, {
   "key": 41,
-  "label": "Bogotá - Madrid",
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:17 AM",
-  "arrive": "3:52 PM",
-  "state": "on time"
+  "departure": "7:32 AM",
+  "arrive": "3:55 PM",
+  "state": "canceled"
 }, {
   "key": 42,
-  "label": "Medellin - Cali",
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "2:55 AM",
-  "arrive": "9:22 PM",
-  "state": "on time"
+  "departure": "12:03 AM",
+  "arrive": "11:45 PM",
+  "state": "arrived"
 }, {
   "key": 43,
-  "label": "Medellin - Cali",
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:15 AM",
-  "arrive": "10:13 PM",
-  "state": "on time"
+  "departure": "7:17 AM",
+  "arrive": "8:18 PM",
+  "state": "canceled"
 }, {
   "key": 44,
-  "label": "Bogotá - Madrid",
+  "label": "Bogota - Paris",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:27 AM",
-  "arrive": "7:53 PM",
-  "state": "delayed"
+  "departure": "7:21 AM",
+  "arrive": "5:07 PM",
+  "state": "on time"
 }, {
   "key": 45,
-  "label": "Sao Paulo - Bogotá",
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "4:36 AM",
+  "departure": "2:02 PM",
   "arrive": "5:00 PM",
-  "state": "on transit"
+  "state": "delayed"
 }, {
   "key": 46,
   "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:25 AM",
-  "arrive": "5:18 PM",
-  "state": "canceled"
-}, {
-  "key": 47,
-  "label": "Bogotá - Paris",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "12:21 AM",
-  "arrive": "9:51 PM",
-  "state": "delayed"
-}, {
-  "key": 48,
-  "label": "Bogotá - Paris",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "12:28 AM",
-  "arrive": "11:30 PM",
-  "state": "arrived"
-}, {
-  "key": 49,
-  "label": "Bogotá - Madrid",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "5:46 AM",
-  "arrive": "5:10 PM",
+  "departure": "12:33 AM",
+  "arrive": "11:51 PM",
   "state": "on transit"
 }, {
-  "key": 50,
-  "label": "Bogotá - Madrid",
+  "key": 47,
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "5:55 AM",
-  "arrive": "11:37 PM",
-  "state": "on time"
+  "departure": "5:36 AM",
+  "arrive": "3:07 PM",
+  "state": "on transit"
+}, {
+  "key": 48,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:53 PM",
+  "arrive": "3:25 PM",
+  "state": "delayed"
+}, {
+  "key": 49,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "7:49 AM",
+  "arrive": "3:28 PM",
+  "state": "canceled"
+}, {
+  "key": 50,
+  "label": "Bogota - Paris",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "5:14 AM",
+  "arrive": "7:40 PM",
+  "state": "canceled"
 }]
