@@ -1,401 +1,901 @@
 [{
   "key": 1,
-  "label": "Bogota - New York",
-  "date": "Mon. 31 Oct 2016",
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:04 PM",
-  "arrive": "11:43 PM",
-  "state": "on time"
+  "departure": "2:50 PM",
+  "arrive": "10:12 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
   "key": 2,
-  "label": "Medellin - Cartagena",
+  "label": "Bogota - Paris",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "2:32 PM",
-  "arrive": "6:14 PM",
-  "state": "on transit"
+  "departure": "1:50 AM",
+  "arrive": "3:00 PM",
+  "state": "delayed",
+  "icon": "aircanada"
 }, {
   "key": 3,
-  "label": "Medellin - Cartagena",
-  "date": "Mon. 31 Oct 2016",
+  "label": "Bogota - Paris",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "6:54 AM",
-  "arrive": "8:42 PM",
-  "state": "delayed"
+  "departure": "1:59 PM",
+  "arrive": "4:43 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
   "key": 4,
   "label": "Bogota - New York",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "4:03 AM",
-  "arrive": "6:31 PM",
-  "state": "arrived"
+  "departure": "12:09 AM",
+  "arrive": "6:45 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
 }, {
   "key": 5,
-  "label": "Bogota - Madrid",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "1:10 PM",
-  "arrive": "3:46 PM",
-  "state": "on time"
-}, {
-  "key": 6,
-  "label": "Sao Paulo - Bogota",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "1:49 PM",
-  "arrive": "11:27 PM",
-  "state": "delayed"
-}, {
-  "key": 7,
-  "label": "Bogota - Madrid",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:26 AM",
-  "arrive": "3:39 PM",
-  "state": "canceled"
-}, {
-  "key": 8,
-  "label": "Bogota - New York",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:45 AM",
-  "arrive": "10:06 PM",
-  "state": "on time"
-}, {
-  "key": 9,
   "label": "Bogota - Paris",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:21 AM",
-  "arrive": "6:00 PM",
-  "state": "canceled"
+  "departure": "11:47 AM",
+  "arrive": "5:31 PM",
+  "state": "arrived",
+  "icon": "airfrance"
 }, {
-  "key": 10,
-  "label": "Bogota - New York",
-  "date": "Mon. 31 Oct 2016",
+  "key": 6,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:16 PM",
-  "arrive": "6:35 PM",
-  "state": "on transit"
+  "departure": "12:47 AM",
+  "arrive": "11:24 PM",
+  "state": "on time",
+  "icon": "aircanada"
 }, {
-  "key": 11,
+  "key": 7,
   "label": "Miami - Bogota",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "10:21 AM",
-  "arrive": "11:53 PM",
-  "state": "on transit"
+  "departure": "12:19 AM",
+  "arrive": "9:13 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 8,
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "8:12 AM",
+  "arrive": "8:29 PM",
+  "state": "arrived",
+  "icon": "aircanada"
+}, {
+  "key": 9,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "8:40 AM",
+  "arrive": "9:56 PM",
+  "state": "cancelled",
+  "icon": "aircanada"
+}, {
+  "key": 10,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:46 AM",
+  "arrive": "10:28 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 11,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "4:45 AM",
+  "arrive": "9:56 PM",
+  "state": "arrived",
+  "icon": "airfrance"
 }, {
   "key": 12,
-  "label": "Bogota - Madrid",
-  "date": "Mon. 31 Oct 2016",
+  "label": "Bogota - Paris",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "6:18 AM",
-  "arrive": "9:05 PM",
-  "state": "canceled"
+  "departure": "1:38 AM",
+  "arrive": "8:33 PM",
+  "state": "on time",
+  "icon": "airfrance"
 }, {
   "key": 13,
-  "label": "Bogota - Madrid",
-  "date": "Mon. 31 Oct 2016",
+  "label": "Bogota - Paris",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:55 AM",
-  "arrive": "3:54 PM",
-  "state": "arrived"
+  "departure": "12:47 AM",
+  "arrive": "8:30 PM",
+  "state": "delayed",
+  "icon": "airfrance"
 }, {
   "key": 14,
-  "label": "Medellin - Cali",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "11:51 AM",
-  "arrive": "9:43 PM",
-  "state": "on time"
-}, {
-  "key": 15,
-  "label": "Medellin - Cali",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "11:08 AM",
-  "arrive": "5:08 PM",
-  "state": "arrived"
-}, {
-  "key": 16,
   "label": "Bogota - Madrid",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:51 AM",
-  "arrive": "6:29 PM",
-  "state": "on time"
+  "departure": "2:08 AM",
+  "arrive": "4:51 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 15,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:29 AM",
+  "arrive": "8:07 PM",
+  "state": "arrived",
+  "icon": "aircanada"
+}, {
+  "key": 16,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:19 PM",
+  "arrive": "10:08 PM",
+  "state": "on time",
+  "icon": "airfrance"
 }, {
   "key": 17,
   "label": "Bogota - Madrid",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:50 AM",
-  "arrive": "4:48 PM",
-  "state": "delayed"
+  "departure": "1:08 AM",
+  "arrive": "10:42 PM",
+  "state": "delayed",
+  "icon": "aircanada"
 }, {
   "key": 18,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:29 AM",
+  "arrive": "7:02 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 19,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:35 PM",
+  "arrive": "9:32 PM",
+  "state": "arrived",
+  "icon": "avianca"
+}, {
+  "key": 20,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:20 PM",
+  "arrive": "10:05 PM",
+  "state": "arrived",
+  "icon": "aircanada"
+}, {
+  "key": 21,
+  "label": "Bogota - Canada",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:49 AM",
+  "arrive": "4:40 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 22,
   "label": "Bogota - New York",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:41 PM",
-  "arrive": "7:42 PM",
-  "state": "canceled"
-}, {
-  "key": 19,
-  "label": "Miami - Bogota",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "12:46 AM",
-  "arrive": "11:37 PM",
-  "state": "arrived"
-}, {
-  "key": 20,
-  "label": "Medellin - Cartagena",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:33 AM",
-  "arrive": "11:51 PM",
-  "state": "on time"
-}, {
-  "key": 21,
-  "label": "Sao Paulo - Bogota",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "4:24 AM",
-  "arrive": "4:47 PM",
-  "state": "arrived"
-}, {
-  "key": 22,
-  "label": "Miami - Bogota",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "6:02 AM",
-  "arrive": "5:58 PM",
-  "state": "delayed"
+  "departure": "2:17 PM",
+  "arrive": "7:14 PM",
+  "state": "on time",
+  "icon": "aircanada"
 }, {
   "key": 23,
   "label": "Medellin - Cartagena",
-  "date": "Mon. 31 Oct 2016",
+  "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "11:15 AM",
-  "arrive": "11:33 PM",
-  "state": "canceled"
+  "departure": "5:21 AM",
+  "arrive": "10:35 PM",
+  "state": "on time",
+  "icon": "avianca"
 }, {
   "key": 24,
-  "label": "Medellin - Cali",
-  "date": "Sun. 30 Oct 2016",
+  "label": "Bogota - Canada",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "10:34 AM",
-  "arrive": "6:11 PM",
-  "state": "arrived"
+  "departure": "12:05 AM",
+  "arrive": "7:22 PM",
+  "state": "on time",
+  "icon": "avianca"
 }, {
   "key": 25,
-  "label": "Medellin - Cartagena",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "4:06 AM",
-  "arrive": "4:48 PM",
-  "state": "canceled"
-}, {
-  "key": 26,
-  "label": "Sao Paulo - Bogota",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "8:29 AM",
-  "arrive": "4:33 PM",
-  "state": "delayed"
-}, {
-  "key": 27,
-  "label": "Bogota - New York",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "2:36 AM",
-  "arrive": "10:55 PM",
-  "state": "delayed"
-}, {
-  "key": 28,
-  "label": "Sao Paulo - Bogota",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "1:29 PM",
-  "arrive": "9:06 PM",
-  "state": "on time"
-}, {
-  "key": 29,
-  "label": "Medellin - Cartagena",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "6:24 AM",
-  "arrive": "10:23 PM",
-  "state": "delayed"
-}, {
-  "key": 30,
   "label": "Medellin - Cali",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "2:09 AM",
-  "arrive": "5:55 PM",
-  "state": "arrived"
+  "departure": "10:06 AM",
+  "arrive": "5:15 PM",
+  "state": "arrived",
+  "icon": "airfrance"
 }, {
-  "key": 31,
+  "key": 26,
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:53 PM",
+  "arrive": "6:57 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 27,
   "label": "Bogota - Madrid",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:00 PM",
-  "arrive": "5:33 PM",
-  "state": "canceled"
+  "departure": "10:49 AM",
+  "arrive": "7:08 PM",
+  "state": "arrived",
+  "icon": "aircanada"
 }, {
-  "key": 32,
-  "label": "Bogota - Paris",
-  "date": "Mon. 31 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "7:52 AM",
-  "arrive": "5:42 PM",
-  "state": "arrived"
-}, {
-  "key": 33,
+  "key": 28,
   "label": "Medellin - Cartagena",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "3:19 AM",
-  "arrive": "4:22 PM",
-  "state": "canceled"
+  "departure": "12:24 PM",
+  "arrive": "8:34 PM",
+  "state": "arrived",
+  "icon": "aircanada"
+}, {
+  "key": 29,
+  "label": "Bogota - Canada",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:05 AM",
+  "arrive": "3:28 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 30,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:00 AM",
+  "arrive": "6:07 PM",
+  "state": "arrived",
+  "icon": "aircanada"
+}, {
+  "key": 31,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "4:08 AM",
+  "arrive": "5:07 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 32,
+  "label": "Bogota - Canada",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "9:42 AM",
+  "arrive": "11:21 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 33,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:42 AM",
+  "arrive": "10:51 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
 }, {
   "key": 34,
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "9:45 AM",
+  "arrive": "9:33 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 35,
+  "label": "Bogota - Canada",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:19 PM",
+  "arrive": "11:40 PM",
+  "state": "delayed",
+  "icon": "avianca"
+}, {
+  "key": 36,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:01 AM",
+  "arrive": "5:30 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 37,
   "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:40 PM",
+  "arrive": "9:29 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 38,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:04 PM",
+  "arrive": "7:57 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 39,
+  "label": "Bogota - Canada",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:07 AM",
+  "arrive": "8:11 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 40,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:53 AM",
+  "arrive": "10:20 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 41,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "4:42 AM",
+  "arrive": "6:05 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 42,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "10:24 AM",
+  "arrive": "5:09 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 43,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:02 PM",
+  "arrive": "7:09 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 44,
+  "label": "Bogota - Canada",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "5:42 AM",
+  "arrive": "10:12 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 45,
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:27 PM",
+  "arrive": "11:11 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 46,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:20 AM",
+  "arrive": "5:30 PM",
+  "state": "delayed",
+  "icon": "avianca"
+}, {
+  "key": 47,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "9:28 AM",
+  "arrive": "3:18 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 48,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:42 PM",
+  "arrive": "3:13 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 49,
+  "label": "Bogota - Paris",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:17 PM",
+  "arrive": "11:22 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 50,
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:38 AM",
+  "arrive": "9:09 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 51,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "8:07 AM",
+  "arrive": "8:57 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 52,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:59 AM",
+  "arrive": "3:57 PM",
+  "state": "delayed",
+  "icon": "avianca"
+}, {
+  "key": 53,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:22 AM",
+  "arrive": "5:55 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 54,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "11:36 AM",
+  "arrive": "8:13 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 55,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:21 PM",
+  "arrive": "11:48 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 56,
+  "label": "Bogota - Paris",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
   "departure": "12:10 PM",
-  "arrive": "10:18 PM",
-  "state": "arrived"
+  "arrive": "4:19 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
-  "key": 35,
+  "key": 57,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:16 AM",
+  "arrive": "10:25 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 58,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:39 AM",
+  "arrive": "5:02 PM",
+  "state": "cancelled",
+  "icon": "aircanada"
+}, {
+  "key": 59,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:13 PM",
+  "arrive": "9:53 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 60,
+  "label": "Bogota - New York",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:28 AM",
+  "arrive": "3:01 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 61,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:59 AM",
+  "arrive": "9:20 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 62,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:32 AM",
+  "arrive": "11:26 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 63,
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:58 AM",
+  "arrive": "8:51 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 64,
   "label": "Bogota - New York",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:42 AM",
-  "arrive": "6:28 PM",
-  "state": "canceled"
+  "departure": "12:43 PM",
+  "arrive": "8:58 PM",
+  "state": "arrived",
+  "icon": "airfrance"
 }, {
-  "key": 36,
-  "label": "Miami - Bogota",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "2:44 AM",
-  "arrive": "7:09 PM",
-  "state": "delayed"
-}, {
-  "key": 37,
-  "label": "Bogota - Madrid",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "10:43 AM",
-  "arrive": "5:23 PM",
-  "state": "on time"
-}, {
-  "key": 38,
+  "key": 65,
   "label": "Sao Paulo - Bogota",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:48 AM",
-  "arrive": "10:15 PM",
-  "state": "on time"
+  "departure": "6:14 AM",
+  "arrive": "11:25 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
-  "key": 39,
+  "key": 66,
   "label": "Bogota - Madrid",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "9:58 AM",
-  "arrive": "7:43 PM",
-  "state": "on time"
+  "departure": "2:15 PM",
+  "arrive": "4:50 PM",
+  "state": "on time",
+  "icon": "airfrance"
 }, {
-  "key": 40,
+  "key": 67,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "8:34 AM",
+  "arrive": "10:08 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 68,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:28 PM",
+  "arrive": "5:50 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 69,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:44 AM",
+  "arrive": "9:42 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 70,
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:12 PM",
+  "arrive": "8:05 PM",
+  "state": "cancelled",
+  "icon": "aircanada"
+}, {
+  "key": 71,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "5:33 AM",
+  "arrive": "5:18 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 72,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:57 AM",
+  "arrive": "10:40 PM",
+  "state": "delayed",
+  "icon": "airfrance"
+}, {
+  "key": 73,
   "label": "Medellin - Cartagena",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:34 PM",
-  "arrive": "9:58 PM",
-  "state": "on transit"
+  "departure": "2:40 AM",
+  "arrive": "11:39 PM",
+  "state": "on time",
+  "icon": "airfrance"
 }, {
-  "key": 41,
+  "key": 74,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "4:50 AM",
+  "arrive": "4:36 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 75,
+  "label": "Sao Paulo - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "11:28 AM",
+  "arrive": "8:34 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 76,
   "label": "Sao Paulo - Bogota",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "7:32 AM",
-  "arrive": "3:55 PM",
-  "state": "canceled"
+  "departure": "6:16 AM",
+  "arrive": "11:39 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
-  "key": 42,
-  "label": "Miami - Bogota",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "12:03 AM",
-  "arrive": "11:45 PM",
-  "state": "arrived"
-}, {
-  "key": 43,
-  "label": "Miami - Bogota",
+  "key": 77,
+  "label": "Bogota - New York",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "7:17 AM",
-  "arrive": "8:18 PM",
-  "state": "canceled"
+  "departure": "11:55 AM",
+  "arrive": "7:17 PM",
+  "state": "on time",
+  "icon": "airfrance"
 }, {
-  "key": 44,
+  "key": 78,
+  "label": "Medellin - Cali",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:36 AM",
+  "arrive": "10:16 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 79,
   "label": "Bogota - Paris",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "7:21 AM",
-  "arrive": "5:07 PM",
-  "state": "on time"
+  "departure": "3:51 AM",
+  "arrive": "8:24 PM",
+  "state": "delayed",
+  "icon": "aircanada"
 }, {
-  "key": 45,
+  "key": 80,
   "label": "Bogota - Madrid",
-  "date": "Sun. 30 Oct 2016",
-  "created": "2016-07-22T01:00:00Z",
-  "departure": "2:02 PM",
-  "arrive": "5:00 PM",
-  "state": "delayed"
-}, {
-  "key": 46,
-  "label": "Medellin - Cartagena",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "12:33 AM",
-  "arrive": "11:51 PM",
-  "state": "on transit"
+  "departure": "8:39 AM",
+  "arrive": "4:12 PM",
+  "state": "arrived",
+  "icon": "aircanada"
 }, {
-  "key": 47,
+  "key": 81,
+  "label": "Medellin - Cali",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "7:40 AM",
+  "arrive": "11:30 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 82,
   "label": "Miami - Bogota",
   "date": "Sun. 30 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "5:36 AM",
-  "arrive": "3:07 PM",
-  "state": "on transit"
+  "departure": "10:59 AM",
+  "arrive": "10:14 PM",
+  "state": "on time",
+  "icon": "aircanada"
 }, {
-  "key": 48,
-  "label": "Bogota - Madrid",
-  "date": "Sun. 30 Oct 2016",
+  "key": 83,
+  "label": "Bogota - Canada",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "1:53 PM",
-  "arrive": "3:25 PM",
-  "state": "delayed"
+  "departure": "9:39 AM",
+  "arrive": "11:32 PM",
+  "state": "arrived",
+  "icon": "avianca"
 }, {
-  "key": 49,
-  "label": "Medellin - Cartagena",
-  "date": "Sun. 30 Oct 2016",
+  "key": 84,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "7:49 AM",
-  "arrive": "3:28 PM",
-  "state": "canceled"
+  "departure": "11:47 AM",
+  "arrive": "7:50 PM",
+  "state": "delayed",
+  "icon": "avianca"
 }, {
-  "key": 50,
+  "key": 85,
+  "label": "Bogota - New York",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "11:47 AM",
+  "arrive": "7:16 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 86,
   "label": "Bogota - Paris",
   "date": "Mon. 31 Oct 2016",
   "created": "2016-07-22T01:00:00Z",
-  "departure": "5:14 AM",
-  "arrive": "7:40 PM",
-  "state": "canceled"
+  "departure": "4:04 AM",
+  "arrive": "5:59 PM",
+  "state": "cancelled",
+  "icon": "avianca"
+}, {
+  "key": 87,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:02 AM",
+  "arrive": "8:07 PM",
+  "state": "delayed",
+  "icon": "avianca"
+}, {
+  "key": 88,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:28 AM",
+  "arrive": "7:33 PM",
+  "state": "cancelled",
+  "icon": "aircanada"
+}, {
+  "key": 89,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "12:32 AM",
+  "arrive": "9:45 PM",
+  "state": "cancelled",
+  "icon": "airfrance"
+}, {
+  "key": 90,
+  "label": "Sao Paulo - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "1:05 AM",
+  "arrive": "9:26 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 91,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "3:40 AM",
+  "arrive": "10:29 PM",
+  "state": "delayed",
+  "icon": "aircanada"
+}, {
+  "key": 92,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:54 PM",
+  "arrive": "6:54 PM",
+  "state": "on time",
+  "icon": "airfrance"
+}, {
+  "key": 93,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "5:32 AM",
+  "arrive": "8:03 PM",
+  "state": "arrived",
+  "icon": "avianca"
+}, {
+  "key": 94,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:50 AM",
+  "arrive": "4:31 PM",
+  "state": "arrived",
+  "icon": "airfrance"
+}, {
+  "key": 95,
+  "label": "Miami - Bogota",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "7:06 AM",
+  "arrive": "3:02 PM",
+  "state": "on time",
+  "icon": "avianca"
+}, {
+  "key": 96,
+  "label": "Bogota - Madrid",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "11:43 AM",
+  "arrive": "5:14 PM",
+  "state": "arrived",
+  "icon": "avianca"
+}, {
+  "key": 97,
+  "label": "Medellin - Cartagena",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:17 PM",
+  "arrive": "4:22 PM",
+  "state": "arrived",
+  "icon": "avianca"
+}, {
+  "key": 98,
+  "label": "Medellin - Cartagena",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "6:31 AM",
+  "arrive": "9:34 PM",
+  "state": "delayed",
+  "icon": "avianca"
+}, {
+  "key": 99,
+  "label": "Miami - Bogota",
+  "date": "Sun. 30 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "2:07 PM",
+  "arrive": "7:37 PM",
+  "state": "on time",
+  "icon": "aircanada"
+}, {
+  "key": 100,
+  "label": "Bogota - Madrid",
+  "date": "Mon. 31 Oct 2016",
+  "created": "2016-07-22T01:00:00Z",
+  "departure": "5:13 AM",
+  "arrive": "8:41 PM",
+  "state": "cancelled",
+  "icon": "aircanada"
 }]
